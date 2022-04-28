@@ -7,7 +7,7 @@ github: https://github.com/sy375
 about: 
 disqus_shortname: programming
 #google_analytics: UA-31048387-6
-avatar_url: 
+avatar_url: /static/img/.jpg
 
 enableTags: true
 tagarray: []
