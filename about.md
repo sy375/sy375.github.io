@@ -14,3 +14,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <div class="pdf-container">
 <iframe src="https://drive.google.com/file/d/1VkIwQ8oRZsQdgW5vZuAwxiY0AOeHizPs/view?usp=sharing" width="100%" height="900"></iframe>
 </div>
+<embed src="https://sy375.github.io/Yoon.SungMin.2204.pdf" type="application/pdf"/>
