@@ -30,7 +30,16 @@ layout: default
           <small>Learn more about my projects <a href="{{ site.url }}/blogs/">here</a>.</small>
       </div>
     </div>
-    <div class="row home-quick-links">
+    <div class="col-md-3 home-quick-links__link">
+        <a href="{{ site.url }}/about">
+          <span class="fa-stack fa-2x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-street-view fa-stack-1x fa-inverse"></i>
+          </span>
+          <h2>About Me</h2>
+        </a>
+      </div>
+       <div class="row home-quick-links">
       <div class="col-md-3 home-quick-links__link">
         <a href="{{ site.url }}/blogs">
           <span class="fa-stack fa-2x">
@@ -38,15 +47,6 @@ layout: default
             <i class="fa fa-list-ul fa-stack-1x fa-inverse"></i>
           </span>
           <h2>Blogs</h2>
-        </a>
-      </div>
-      <div class="col-md-3 home-quick-links__link">
-        <a href="{{ site.url }}/about">
-          <span class="fa-stack fa-2x">
-            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa fa-street-view fa-stack-1x fa-inverse"></i>
-          </span>
-          <h2>About Me</h2>
         </a>
       </div>
     </div>
