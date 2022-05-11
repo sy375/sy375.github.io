@@ -1,24 +1,11 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2018-02-04 21:28:15 +0700
+date:   2022-05-10 20:15:00 +0700
 ---
-First of all, Thank you for stopping by.
-
 # Who am I?
-Hi, I am `Tauseef Jamadar`, a *Software Engineer* and a *Technology Enthusiast* from Chico, CA who loves to write software to build great products
-and help business succeed with their goals. 
+Hi, I am `Sung Min Yoon`. I am a originally from South Korea and I enjoy playing all kinds of sports, including Basketball, Soccer, and Tennis.
 
-I was born in Mumbai, India and travelled to the United States for my masters program in Computer Science from [CSU, Chico][csu-chico] and graduated with Honors in the year 2011.
+I have received my B.A. in Mathematics and Economics from Cornell University in May 2022. I am continuing my study at Cornell University in the Master of Financial Engineering program, which I will be completing in December 2022.
 
-I have over 8 years professional experience developing for the web and mobile platforms. I am aspiring to learn, grow and share the knowledge. I started real world programming from the year 2010, since then I have come far and learnt a lot. I am constantly looking to work on exciting projects.
-
-#### I believe in the statement -
-> "Programming is limited to your imagination"
-
-
-# What is this site about?
-Starting a blog and creating an online presense, to share my learnings was always on my todo list. Finally today I decided to start doing it.
-I want to use this site as a place to share my experiences with interesting programing problem solving, hoping someone will benefit from the findings.
-
-[csu-chico]:  http://www.csuchico.edu/
+I was involved in multiple projects and research in Mathematics and Finance. I am open to working in any projects that require logical reasoning and quantitative analysis.
