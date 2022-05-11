@@ -9,3 +9,10 @@ My past Projects/Research
 </p>
 
 ## Nonlinear Feedback Shift Registers
+sdf
+
+## Riemann-zeta Function and Analytic Continuation
+sdf
+
+## When and Where Do Quant Models Fail?
+sdf
