@@ -4,4 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+<p>
+My past Projects/Research
+</p>
+
+## Nonlinear Feedback Shift Registers
