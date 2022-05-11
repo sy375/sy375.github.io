@@ -19,4 +19,14 @@ For this research, I have studied about Riemann-zeta function and its analytic c
 You can find details <a href="https://drive.google.com/file/d/1yiqpNkjNgVeOqNNzELpA7UJ9pdyAq7Qk/view">here</a>
 
 ## When and Where Do Quant Models Fail?
-sdf
+With the development of computer software, quantitative models have been widely used to determine the value of financial assets and construct investment portfolios. After seeing the quantitative investment models survive the value factor struggles during the internet bubble in the early 2000s, many portfolios managers have commonly used quantitative signals such as value and momentum to make investment decisions. In fact, many quantitative equity managers had enjoyed strong performance, which resulted in attracting significant assets, until the quant meltdown in 2007.
+
+These quant models were beneficial not only in finding patterns that allow the analysts to make predictions about the price and direction of securities but also in constructing portfolios based on their strategies. One common strategy that leveraged quantitative models were market-neutral statistical arbitrage strategies, which will be discussed in more detail in the following section. These basically had no significant beta exposure (i.e., they were immune to market gyrations). Because the goal of the hedge funds was to make the highest risk-adjusted return, many of them have employed statistical arbitrage strategies and expected that their losses would be limited.
+
+However, during the week of August 6th in 2007, many hedge funds that used quantitative models to managing portfolios have experienced huge losses. It was especially shocking that most of the hardest-hit funds were the ones that were using statistical arbitrage strategies, which were assumed to be market-neutral by construction. This resulted in losses ranging from -5% to -30% for the most consistently profitable quant funds in the history. Such movements were so unexpected that David Viniar, Chief Financial Officer of Goldman Sachs, commented “we were seeing things that were 25-standard deviation moves, several days in a row.”
+
+Nowadays, quant models are more widely used in financial industry. Many of the funds are now using more sophisticated tools like machine learning and artificial intelligence to better use data to making investment decisions and constructing portfolios. Thus, it has become more important to understand when and where these quant models can go wrong so that we can prepare for and prevent from quant crisis.
+
+In the following sections, I will first discuss about what we refer to as quant models and how those quant models work. Then, I will discuss about historical cases in which quant models have failed and some possible causes and explanations to the events. Finally, I will provide some implications to the findings and close with the conclusion.
+
+You can find details <a href="https://drive.google.com/file/d/1fGAEur1bfLt5Lzi1ypOguZ6-bPZ4bxt9/view?usp=sharing">here</a>
