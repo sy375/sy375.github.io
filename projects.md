@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <p>
-My past Projects/Research
+These are some of my past Projects/Research
 </p>
 
 ## Nonlinear Feedback Shift Registers
